@@ -1,0 +1,20 @@
+body{
+     font-family: 'Nunito Sans', sans-serif;
+}
+.avatar {
+     border: 0.3rem solid rgba(#fff, 0.3);
+     margin-top: -3rem;
+     margin-bottom: 1rem;
+     max-width: 9rem;
+   }
+   p{
+     margin-bottom: 0;
+   }
+   ul{
+     list-style: none;
+     text-align: left;
+   }
+
+   .card{
+     border-radius: 8px;
+   }
